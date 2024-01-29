@@ -11,14 +11,14 @@ export const navMenuConfig: NavMenuConfig = {
           description: "Take a closer look at the project's features.",
         },
         {
-          title: "Twitter (@miickasmt)",
-          href: "https://twitter.com/miickasmt",
+          title: "Twitter (@tonyoconnell)",
+          href: "https://twitter.com/tonyoconnell",
           description: "Follow me to get the latest updates and news.",
           external: true,
         },
         {
           title: "Source Code",
-          href: "https://github.com/mickasmt/astro-nomy",
+          href: "https://github.com/one-ie/oneai",
           description: "You want to star the repository ? Let's get started!",
           external: true,
         },
