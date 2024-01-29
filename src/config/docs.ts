@@ -29,7 +29,7 @@ export const docsConfig: DocsConfig = {
           href: "/docs/documentation",
         },
         {
-          title: "D ths",
+          title: "In progress",
           href: "/docs/in-progress",
           disabled: true,
         },
