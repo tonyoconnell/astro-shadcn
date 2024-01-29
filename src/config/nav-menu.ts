@@ -3,7 +3,7 @@ import type { NavMenuConfig } from "@/types";
 export const navMenuConfig: NavMenuConfig = {
   infosNav: [
     {
-      title: "Menu",
+      title: "Software",
       items: [
         {
           title: "Features",
@@ -27,7 +27,7 @@ export const navMenuConfig: NavMenuConfig = {
   ],
   examplesNav: [
     {
-      title: "Examples",
+      title: "Education",
       items: [
         {
           title: "Blog",
@@ -41,28 +41,9 @@ export const navMenuConfig: NavMenuConfig = {
             "A Markdown/MDX documentation site built using Content Collections.",
         },
         {
-          title: "Authentification",
+          title: "Courses",
           href: "/login",
           description: "Login and register pages for authentification.",
-          disabled: true,
-        },
-        {
-          title: "Dashboard",
-          href: "/#dashboard",
-          description: "A dashboard panel after authentification.",
-          disabled: true,
-        },
-        {
-          title: "Ecommerce",
-          href: "/#examples/ecommerce",
-          description:
-            "Different pages of an ecommerce app fetching data from an API.",
-          disabled: true,
-        },
-        {
-          title: "Social Media",
-          href: "/#examples/social-media",
-          description: "Different components & pages of an social media app.",
           disabled: true,
         },
       ],
