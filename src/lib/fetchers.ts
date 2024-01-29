@@ -33,3 +33,8 @@ export async function getGuides() {
 
   return guides;
 }
+
+export async function getDocs() {
+  const docs = (await getCollection("docs"))
+  return docs;
+}
