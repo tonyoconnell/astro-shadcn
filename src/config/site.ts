@@ -1,13 +1,13 @@
 import type { SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
-  name: "Astronomy",
+  name: "ONE",
   description:
-    "An modern example app built using Astro v4 & shadcn/ui. Inspired by shadcn/taxonomy.",
+    "Accellerate with AI. Generate and sell products, services and ideas at the edge.",
   url: "https://astro-nomy.vercel.app",
-  ogImage: "https://astro-nomy.vercel.app/og.jpg",
+  ogImage: "https://one.ie/og.jpg",
   links: {
-    twitter: "https://twitter.com/miickasmt",
-    github: "https://github.com/mickasmt/astro-nomy",
+    twitter: "https://twitter.com/tonyoconnell",
+    github: "https://github.com/one-ie/oneai",
   },
 };
