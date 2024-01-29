@@ -43,7 +43,7 @@ export const navMenuConfig: NavMenuConfig = {
         {
           title: "Courses",
           href: "/login",
-          description: "Login and register pages for authentification.",
+          description: "Guide learners on a journey with a static LMS",
           disabled: true,
         },
       ],
@@ -51,12 +51,8 @@ export const navMenuConfig: NavMenuConfig = {
   ],
   links: [
     {
-      title: "FAQ",
-      href: "/faq",
-    },
-    {
-      title: "About",
-      href: "/about",
+      title: "Lab",
+      href: "/lab",
     },
   ],
 };
