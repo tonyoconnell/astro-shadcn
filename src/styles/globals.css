@@ -85,11 +85,10 @@
     @apply border-border;
   }
 
-  /* If you want a custom scrollbar - By @diomed */
-  /* * {
+{
     @apply border-border;
     --sb-track-color: #ffffff;
-    --sb-thumb-color: #e2e3f1;
+    --sb-thumb-color: #f8f8f8;
     --sb-size: 10px;
 
     scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
@@ -107,7 +106,7 @@
   ::-webkit-scrollbar-thumb {
     background: var(--sb-thumb-color);
     border-radius: 10px;
-  } */
+  } 
 
   html {
     /* scroll-padding-top: 4rem; */
